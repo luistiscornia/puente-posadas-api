@@ -1,0 +1,33 @@
+TRABAJO INTEGRADOR FINAL - PROGRAMACIÓN II (TECNICATURA UNIVERSITARIA EN CIENCIA DE DATOS)
+
+CÓDIGO FUENTE Y DOCUMENTACIÓN:
+
+Repositorio de GitHub:
+https://github.com/luistiscornia/puente-posadas-api
+
+
+INTEGRANTES:
+* Luciano Kovacevich (DNI: 41689310)
+* Luis Tiscornia (DNI: 31759076)
+* Bianca Valente (DNI: 44306880)
+
+
+ ENLACES:
+
+1. URL pública de la API:
+https://puente-posadas-encarnacion-api.fly.dev/
+
+2. Estado de la API:
+https://puente-posadas-encarnacion-api.fly.dev/status
+
+3. Información general del proyecto y equipo:
+https://puente-posadas-encarnacion-api.fly.dev/info
+
+4. Predicciones de clasificación:
+https://puente-posadas-encarnacion-api.fly.dev/modelo1
+
+5. Predicciones de regresión:
+https://puente-posadas-encarnacion-api.fly.dev/modelo2
+
+6. URL de la documentación automática (Swagger UI):
+https://puente-posadas-encarnacion-api.fly.dev/docs
